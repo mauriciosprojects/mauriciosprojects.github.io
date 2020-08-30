@@ -1,16 +1,16 @@
 # BBGame114: Breadboard Game with 11x4 Matrix
 
-BBGame114 is handheld game device that consists of an Arduino Nano processor board, an 11x4 LED matrix display, three input buttons and a piezoelectric speaker. This device can be programmed using the Arduino IDE. The [BBGame114 GitHub repository](https://github.com/mtejada11/BBGame114) at [https://github.com/mtejada11/BBGame114](https://github.com/mtejada11/BBGame114) contains the BBGame114Lib library that can be used for programming this device, and it also contains a Space Invaders-like game.
+BBGame114 is handheld game device that consists of an Arduino Nano processor board, an 11x4 LED matrix display, three input buttons and a piezoelectric speaker. This device can be programmed using the Arduino IDE. The [BBGame114 GitHub repository](https://github.com/mauriciosprojects/BBGame114) at [https://github.com/mauriciosprojects/BBGame114](https://github.com/mauriciosprojects/BBGame114) contains the BBGame114Lib library that can be used for programming this device, and it also contains a Space Invaders-like game.
 
-<img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width="800" alt="BBGame114 build diagram">
+<img src="https://github.com/mauriciosprojects/BBGame114/raw/doc/Build/BBGame114.png" width="800" alt="BBGame114 build diagram">
 *Diagram of BBGame114 assembled on 830-point solderless breadboard*
 
-<img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114%20circuit%20diagram.png" width="800" alt="BBGame114 circuit diagram">
+<img src="https://github.com/mauriciosprojects/BBGame114/raw/doc/Build/BBGame114%20circuit%20diagram.png" width="800" alt="BBGame114 circuit diagram">
 *Circuit diagram*
 
 ## Code
 
-The [BBGame114 GitHub repository](https://github.com/mtejada11/BBGame114) at [https://github.com/mtejada11/BBGame114](https://github.com/mtejada11/BBGame114) contains the following coding exercises:
+The [BBGame114 GitHub repository](https://github.com/mauriciosprojects/BBGame114) at [https://github.com/mauriciosprojects/BBGame114](https://github.com/mauriciosprojects/BBGame114) contains the following coding exercises:
 * Exercises 1 to 3: Coding with an Arduino processor and 5 LEDs
 * Exercises 4 to 7: Coding with a partial 5x4 LED matrix
 * Exercises 8 to 10: Coding with a full 11x4 LED matrix, leading up to coding a full game
@@ -41,4 +41,4 @@ school students.
 
 ## BBGame114 Arduino Library
 
-The [BBGame114Lib.zip](https://github.com/mtejada11/BBGame114/blob/master/Lib/BBGame114Lib.zip?raw=true) library for Arduino included in this repository is a library that allows the BBGame114 device to be programmed with higher level methods/functions than the Arduino `digitalWrite` and `digitalRead` functions. See the page [BBGame114Lib Library Reference](https://github.com/mtejada11/BBGame114/wiki/BBGame114Lib-Library-Reference) page for more information on this library. 
+The [BBGame114Lib.zip](https://github.com/mauriciosprojects/BBGame114/blob/master/Lib/BBGame114Lib.zip?raw=true) library for Arduino included in this repository is a library that allows the BBGame114 device to be programmed with higher level methods/functions than the Arduino `digitalWrite` and `digitalRead` functions. See the page [BBGame114Lib Library Reference](https://github.com/mauriciosprojects/BBGame114/wiki/BBGame114Lib-Library-Reference) page for more information on this library. 

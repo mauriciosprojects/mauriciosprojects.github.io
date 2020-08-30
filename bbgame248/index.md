@@ -1,13 +1,13 @@
 # BBGame248
 
-BBGame248 is handheld game device that consists of an Arduino Nano processor board, a 24x8 LED matrix display, four input buttons and a piezoelectric speaker. This device can be programmed using the Arduino IDE. The [BBGame248 GitHub repository](https://github.com/mtejada11/BBGame248) at [https://github.com/mtejada11/BBGame248](https://github.com/mtejada11/BBGame248) contains the BBGame248Lib library that can be used for programming this device, and it also contains a Space Invaders-like game.
+BBGame248 is handheld game device that consists of an Arduino Nano processor board, a 24x8 LED matrix display, four input buttons and a piezoelectric speaker. This device can be programmed using the Arduino IDE. The [BBGame248 GitHub repository](https://github.com/mauriciosprojects/BBGame248) at [https://github.com/mauriciosprojects/BBGame248](https://github.com/mauriciosprojects/BBGame248) contains the BBGame248Lib library that can be used for programming this device, and it also contains a Space Invaders-like game.
 
-![BBGame248 build diagram](https://github.com/mtejada11/BBGame248/blob/master/Build/BBGame248.png?raw=true)
+![BBGame248 build diagram](https://github.com/mauriciosprojects/BBGame248/blob/master/Build/BBGame248.png?raw=true)
 *Diagram of BBGame248 assembled on breadboard*
 
 ## Code
 
-The [BBGame248 GitHub repository](https://github.com/mtejada11/BBGame248) at [https://github.com/mtejada11/BBGame248](https://github.com/mtejada11/BBGame248) contains the following coding exercises:
+The [BBGame248 GitHub repository](https://github.com/mauriciosprojects/BBGame248) at [https://github.com/mauriciosprojects/BBGame248](https://github.com/mauriciosprojects/BBGame248) contains the following coding exercises:
 * Exercises 1 to 3: Coding with an Arduino processor and 5 LEDs
 * Exercises 5 to 7: Coding with a partial 8x8 LED matrix
 * Exercises 8 to 10: Coding with a full 24x8 LED matrix, leading up to coding a full game
@@ -41,4 +41,4 @@ These materials can be printed for the class:
 
 # BBGame248 Arduino Library
 
-The [BBGame248Lib.zip](https://github.com/mtejada11/BBGame248/blob/master/Lib/BBGame248Lib.zip?raw=true) library for Arduino included in this repository is a library that allows the BBGame248 device to be programmed with higher level methods/functions than the Arduino `digitalWrite` and `digitalRead` functions. See the page [BBGame248Lib Library Reference](https://github.com/mtejada11/BBGame248/wiki/BBGame248Lib-Library-Reference) page for more information on this library. 
+The [BBGame248Lib.zip](https://github.com/mauriciosprojects/BBGame248/blob/master/Lib/BBGame248Lib.zip?raw=true) library for Arduino included in this repository is a library that allows the BBGame248 device to be programmed with higher level methods/functions than the Arduino `digitalWrite` and `digitalRead` functions. See the page [BBGame248Lib Library Reference](https://github.com/mauriciosprojects/BBGame248/wiki/BBGame248Lib-Library-Reference) page for more information on this library. 

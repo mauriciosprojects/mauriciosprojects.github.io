@@ -4,8 +4,8 @@ These are open source and open hardware projects that I've published on GitHub.
 
 <table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px valign="top">
 
-<a href="https://mtejada11.github.io/bbgame114">
-<img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380px><br>
+<a href="https://mauriciosprojects.github.io/bbgame114">
+<img src="https://github.com/mauriciosprojects/BBGame114/raw/doc/Build/BBGame114.png" width=380px><br>
 <b>BBGame114</b>
 </a><br>
 This is an Arduino-based game device built on a 830-point breadboard. It consists of an 11x4 LED matrix, three input 
@@ -13,16 +13,16 @@ buttons and a piezoelectric speaker.
 
 <br><br><br>
 
-<a href="https://github.com/mtejada11/BBGame115">
-<img src="https://github.com/mtejada11/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380px><br>
+<a href="https://github.com/mauriciosprojects/BBGame115">
+<img src="https://github.com/mauriciosprojects/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380px><br>
 <b>BBGame115 PCB</b>
 </a><br>
 This is an Arduino-based game device built on a printed circuit board. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
 
 <br><br><br>
 
-<a href="https://github.com/mtejada11/BBMatrix54">
-<img src="https://github.com/mtejada11/BBMatrix54/raw/doc/Build/BBMatrix54.png" width=190px><br>
+<a href="https://github.com/mauriciosprojects/BBMatrix54">
+<img src="https://github.com/mauriciosprojects/BBMatrix54/raw/doc/Build/BBMatrix54.png" width=190px><br>
 <b>BBMatrix54</b>
 </a><br>
 This is a small 5x4 LED matrix circuit built on mini 400-point breadboard and controlled by an Arduino Nano processor. 
@@ -37,8 +37,8 @@ It's a good device for coding exercises.
 <br>
 <br>
 
-<a href="https://mtejada11.github.io/bbgame248">
-<img src="https://github.com/mtejada11/BBGame248/raw/master/Build/BBGame248.png" width=380px><br>
+<a href="https://mauriciosprojects.github.io/bbgame248">
+<img src="https://github.com/mauriciosprojects/BBGame248/raw/master/Build/BBGame248.png" width=380px><br>
 <b>BBGame248</b>
 </a><br>
 This is an Arduino-based game device built on a breadboard. It consists of an 24x8 LED matrix, four input buttons 
@@ -47,8 +47,8 @@ and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controlle
 
 <br><br><br>
 
-<a href="https://github.com/mtejada11/ElecMB">
-<img src="https://github.com/mtejada11/ElecMB/raw/master/Circuit_2_BreadboardLayout.png" width=250px><br>
+<a href="https://github.com/mauriciosprojects/ElecMB">
+<img src="https://github.com/mauriciosprojects/ElecMB/raw/master/Circuit_2_BreadboardLayout.png" width=250px><br>
 <b>ElecMB</b>
 </a><br>
 Code and circuit schematics used for teaching the Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
@@ -56,8 +56,8 @@ Code and circuit schematics used for teaching the Boy Scouts Electronics Merit B
 
 <br><br><br><br>
 
-<a href="https://mtejada11.github.io/oneledbb">
-<img src="https://github.com/mtejada11/mtejada11.github.io/raw/master/oneledbb/oneledbb.png" width=130px><br>
+<a href="https://mauriciosprojects.github.io/oneledbb">
+<img src="https://github.com/mauriciosprojects/mauriciosprojects.github.io/raw/master/oneledbb/oneledbb.png" width=130px><br>
 <b>OneLedBB</b>
 </a><br>
 Quick one-LED educational project than can used as first step in an introduction to electronics. 
