@@ -97,7 +97,7 @@ If you build this with children, mind the coin cell holder pins and the LED pins
 
 ## How to Teach this Project
 
-If you would like to teach this project, you can use these slides: <a href="https://bit.ly/2YEv6Cs"><b>OneLedBB instructional slides</b></a> to show how to build and to explain how electric current flows. You are welcome to copy and adapt these slides.
+If you would like to teach this project, you can use these slides: <a href="https://bit.ly/2YEv6Cs"><b>OneLedBB instructional slides</b></a>. While showing these slides, you can explain to how to build and how electric current flows. You are welcome to copy and adapt these slides.
 
 If you will be teaching this project to a large number of students, you will find that buying all the parts in larger packages will result in the cost per student on the order of $1 to $2 USD. It's also useful to give small zip-lock bags so that students can take their circuits home and not lose any parts.
 
