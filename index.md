@@ -13,8 +13,8 @@ buttons and a piezoelectric speaker.
 
 <br><br><br>
 
-<a href="https://github.com/mauriciosprojects/BBGame115">
-<img src="https://github.com/mauriciosprojects/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380px><br>
+<a href="https://github.com/mtejada11/BBGame115">
+<img src="https://github.com/mtejada11/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380px><br>
 <b>BBGame115 PCB</b>
 </a><br>
 This is an Arduino-based game device built on a printed circuit board. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
